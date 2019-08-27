@@ -6,6 +6,8 @@ New paragraph
 
 New paragraph 2 **
 
+3
+
 ## Purpose
 
 Sample website with plenty of files for demos MODIFY EXPLANATION
