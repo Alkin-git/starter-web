@@ -14,4 +14,4 @@ Sample website with plenty of files for demos MODIFY EXPLANATION
 
 ### Copyright 
 
-2019 Git.Training NFF
+2019 Git.Training NFF**
