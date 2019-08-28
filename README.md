@@ -11,3 +11,7 @@ New paragraph 2 **
 ## Purpose
 
 Sample website with plenty of files for demos MODIFY EXPLANATION
+
+### Copyright 
+
+2019 Git.Training
