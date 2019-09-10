@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work. Adding a line for rebasi
 
 More changes from myfeature branc too..
 
+Updating for emergency fix after stashing.
+
 New paragraph
 
 New paragraph 2 **
